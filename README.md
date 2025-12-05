@@ -25,10 +25,10 @@
 
 This project examines how four audio environments influence study focus:
 
-- **Silence**
+- **Silence (no audio)**
 - **Instrumental Music (lo-fi and kawaii-style study tracks)**
-- **Lecture Audio**
-- **Music with Lyrics**
+- **Lecture Audio (recorded class lecture videos)**
+- **Music with Lyrics (primarily K-pop and pop music)**
 
 Over **14 days**, I recorded **87 study sessions**, tracking:
 
