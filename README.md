@@ -26,7 +26,7 @@
 This project examines how four audio environments influence study focus:
 
 - **Silence**
-- **Instrumental Music**
+- **Instrumental Music (lo-fi and kawaii-style study tracks)**
 - **Lecture Audio**
 - **Music with Lyrics**
 
