@@ -124,25 +124,23 @@ It also serves as a practical example of how data analysis can improve personal 
 
 ---
 
-## 📂 **Directory Structure**
+## 📂 Directory Structure
 
+```
 study-focus-audio-portfolio/
 │
-├── poster/ # Research poster files (PDF + PNG)
-│ ├── AudioEnvironment_StudyPoster.pdf
-│ └── AudioEnvironment_StudyPoster.png
+├── poster/                          # Research poster files (PDF + PNG)
+│   ├── AudioEnvironment_StudyPoster.pdf
+│   └── AudioEnvironment_StudyPoster.png
 │
-├── presentation/ # Photo from the conference presentation
-│ └── maria_presenting.jpeg
+├── presentation/                    # Photo from conference presentation
+│   └── maria_presenting.jpeg
 │
-├── visualizations/ # Exported graphs and combined visualizations
-│ └── visualizations_all_graphs.pdf
+├── visualizations/                  # Exported graphs and combined visualizations
+│   └── visualizations_all_graphs.pdf
 │
-└── README.md # Full project documentation
-
-yaml
-Copy code
-
+└── README.md                        # Full project documentation
+```
 ---
 
 ## 🔐 **Code Availability**
