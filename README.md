@@ -18,7 +18,7 @@ Data Science Undergraduate — Metropolitan State University
 - **Published in the MetroWorks Student Research Collection**  
   https://metroworks.metrostate.edu/student-scholarship/22/  
 - Ranked among the **Top 10 most-downloaded papers** in the collection  
-- Achieved **10+ full-text downloads within the first month**  
+- Achieved **22+ full-text downloads within the first month**  
 - **Presented at the 2025 Metro State Student Scholar Research Conference**  
 - Selected by faculty as an **exemplary Data Visualization project**
 
