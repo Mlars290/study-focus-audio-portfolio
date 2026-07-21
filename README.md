@@ -52,19 +52,19 @@ Across **87 logged study sessions over 14 days**, behavioral data were collected
 # 🎤 Conference Presentation
 
 <p align="center">
-<img src="presentation/maria-research-presentation.jpeg" width="720">
+<img src="presentation/maria-research-presentation.jpeg" width="720" alt="Conference Presentation">
 </p>
 
 Presented **The Effect of Audio Environments on Study Focus and Productivity** at the **2025 Metropolitan State University Student Research Conference**.
 
-During the presentation, I communicated the project's research objectives, statistical methodology, data visualizations, and findings to **both technical and non-technical audiences**, answering questions and explaining the analysis in an accessible, evidence-based manner. I delivered the presentation from **start to finish**, demonstrating scientific communication and the ability to translate statistical findings into clear, actionable insights.
+I independently delivered the presentation from **start to finish**, presenting the research question, study design, statistical methodology, visualizations, and findings to **both technical and non-technical audiences**. I also answered audience questions and translated statistical concepts into clear, accessible insights, demonstrating strong scientific communication and data storytelling skills.
 
 ---
 
 # 🏅 Research Recognition
 
 <p align="center">
-<img src="awards/student-research-conference-certificate.jpeg" width="650">
+<img src="awards/student-research-conference-certificate.jpeg" width="650" alt="Research Conference Certificate">
 </p>
 
 Certificate awarded for presenting original undergraduate research at the **2025 Metropolitan State University Student Research Conference**.
@@ -74,20 +74,24 @@ Certificate awarded for presenting original undergraduate research at the **2025
 # 🖼️ Research Poster
 
 <p align="center">
-<img src="poster/audio-environment-study-poster.jpg" width="900">
+<img src="poster/audio-environment-study-poster.jpg" width="900" alt="Audio Environment Study Research Poster">
 </p>
 
 The research poster summarizes the study's research question, methodology, statistical analysis, key findings, and conclusions presented during the conference.
 
-📄 **Full Poster **
+📄 **View Full Poster**
 
-[Audio Environment Study Poster](poster/audio-environment-study-poster.pdf)
+[Audio Environment Study Poster (JPG)](poster/audio-environment-study-poster.jpg)
 
 ---
 
 # 🔍 Study Overview
 
-## Audio Environments Examined
+## Research Objective
+
+This study examined how different audio environments influence study focus and productivity using quantitative data collection and statistical analysis.
+
+### Audio Environments Examined
 
 - 🎧 Silence (No Background Audio)
 - 🎵 Instrumental Music (Lo-fi & Ambient Study Tracks)
@@ -98,14 +102,12 @@ The research poster summarizes the study's research question, methodology, stati
 
 - Study session timing
 - Session duration
-- Task activity
 - Audio environment
-- Observational notes
+- Task activity
 - Focus rating (1–5 scale)
+- Observational notes
 
-Initial observations reflected natural listening habits.
-
-Mid-study adjustments balanced representation across listening environments to support fair statistical comparison.
+A total of **87 study sessions** were logged over a **14-day period**. Mid-study adjustments balanced representation across listening environments to improve statistical comparison and reduce sampling bias.
 
 ---
 
@@ -121,20 +123,22 @@ Mid-study adjustments balanced representation across listening environments to s
 
 # 🛠 Tools & Methods
 
-### Programming & Analysis
+### Programming & Statistical Analysis
 
 - R
-- tidyverse (dplyr, readxl, etc.)
+- tidyverse
 - ggplot2
 - One-Way ANOVA
 - Tukey HSD Post-Hoc Testing
 
-### Data Collection
+### Research Methods
 
-- Excel-based structured logging
 - Quantitative self-tracking
+- Experimental design
+- Structured Excel data collection
+- Statistical hypothesis testing
 
-### Documentation & Reproducibility
+### Documentation
 
 - GitHub Version Control
 - Research Poster
@@ -148,15 +152,18 @@ Mid-study adjustments balanced representation across listening environments to s
 - Experimental Design
 - Behavioral Data Collection
 - Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
 - Statistical Analysis
 - One-Way ANOVA
 - Tukey HSD
 - Hypothesis Testing
 - Data Visualization (ggplot2)
+- Research Methodology
 - Scientific Communication
 - Technical Presentation
+- Data Storytelling
 - Communicating to Technical & Non-Technical Audiences
-- Research Presentation
+- Academic Research
 - Technical Documentation
 
 ---
@@ -167,26 +174,29 @@ Potential future extensions include:
 
 - Larger participant samples
 - Longer-term data collection
-- Mixed-effects modeling
-- Additional behavioral variables (sleep, mood, interruptions, task difficulty)
-- Automated data collection using a Shiny application
-- Reporting effect sizes and confidence intervals
+- Mixed-effects statistical models
+- Additional behavioral variables (sleep, stress, interruptions, task difficulty)
+- Automated data collection with a Shiny application
+- Effect size and confidence interval reporting
 - Machine learning models for predicting study focus
 
 ---
 
-# 💡 Significance
+# 💡 Project Significance
 
-This study demonstrates how applied statistics can be used to answer real-world behavioral questions through structured data collection and evidence-based analysis.
+This project demonstrates how statistical methods can be applied to answer real-world behavioral research questions through structured data collection and evidence-based analysis.
 
-The project showcases a complete analytics workflow:
+The project showcases an end-to-end data analytics workflow:
 
-- Research design
-- Behavioral data collection
+- Research planning
+- Experimental design
+- Data collection
 - Data cleaning
-- Statistical analysis
+- Exploratory Data Analysis (EDA)
+- Statistical modeling
+- Hypothesis testing
 - Data visualization
-- Evidence-based interpretation
+- Interpretation of results
 - Scientific communication
 - Academic presentation
 - Scholarly publication
@@ -199,9 +209,9 @@ Larson, M. K. (2025).
 
 **The Effect of Audio Environments on Study Focus and Productivity.**
 
-Presented at the Metropolitan State University Student Research Conference.
+Presented at the **2025 Metropolitan State University Student Research Conference**.
 
-Published in the MetroWorks Student Research Collection.
+Published in the **MetroWorks Student Research Collection**.
 
 https://metroworks.metrostate.edu/student-scholarship/22/
 
@@ -215,4 +225,10 @@ The research poster, conference presentation, publication, and statistical metho
 
 ---
 
-*Thank you for taking the time to explore this research project.*
+<p align="center">
+
+### ⭐ If you found this project interesting, consider giving it a star!
+
+Thank you for taking the time to explore my research.
+
+</p>
