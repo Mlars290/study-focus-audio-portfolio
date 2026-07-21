@@ -14,11 +14,11 @@
 
 # 🏆 Research Highlights
 
-- 📚 **Published** in the MetroWorks Student Research Collection
-- 🎤 **Presented** at the 2025 Metropolitan State University Student Research Conference
+- 📚 Published in the **MetroWorks Student Research Collection**
+- 🎤 Presented at the **2025 Metropolitan State University Student Research Conference**
 - 📥 **68+ full-text downloads** on MetroWorks
 - 📊 Faculty-recognized Data Visualization project
-- 📈 Applied **R**, **One-Way ANOVA**, **Tukey HSD**, and **ggplot2** to analyze behavioral data
+- 📈 Applied **R**, **One-Way ANOVA**, **Tukey HSD**, and **ggplot2**
 
 🔗 **MetroWorks Publication**
 
@@ -29,7 +29,7 @@ https://metroworks.metrostate.edu/student-scholarship/22/
 # 🎤 Research Presentation
 
 <p align="center">
-  <img src="presentation/maria-research-presentation.jpeg" width="700">
+  <img src="./presentation/maria-research-presentation.jpeg" width="750">
 </p>
 
 Presented **The Effect of Audio Environments on Study Focus and Productivity** at the **2025 Metropolitan State University Student Research Conference**.
@@ -39,7 +39,7 @@ Presented **The Effect of Audio Environments on Study Focus and Productivity** a
 # 🏅 Conference Recognition
 
 <p align="center">
-  <img src="awards/student-research-conference-certificate.jpeg" width="650">
+  <img src="./awards/student-research-conference-certificate.jpeg" width="650">
 </p>
 
 Certificate awarded for presenting original undergraduate research at the **2025 Metropolitan State University Student Research Conference**.
@@ -57,36 +57,32 @@ Across **87 logged study sessions over 14 days**, behavioral data were collected
 # 🖼️ Research Poster
 
 <p align="center">
-  <img src="poster/audio-environment-study-poster.png" width="850">
+  <img src="./poster/audio-environment-study-poster.png" width="900">
 </p>
 
-📄 **Full Poster (PDF)**
+📄 **Full Resolution Poster**
 
-[Audio Environment Study Poster](poster/audio-environment-study-poster.pdf)
+[Audio Environment Study Poster (PDF)](./poster/audio-environment-study-poster.pdf)
 
 ---
 
 # 📊 Statistical Visualizations
 
-The study produced multiple visualizations summarizing focus scores and statistical findings across listening environments.
-
-> **Note:** The image preview below requires `audio-study-visualizations.png` to be added to the repository.
-
 <p align="center">
-  <img src="visualizations/audio-study-visualizations.png" width="900">
+  <img src="./visualizations/audio-study-visualizations.png" width="900">
 </p>
 
-The visualization package includes:
+This visualization package includes:
 
 - 📈 Average focus ratings by audio environment
 - 📦 Distribution boxplots
 - ⏱ Session duration relationships
 - 📊 Summary comparison charts
-- 📉 One-Way ANOVA visualization outputs
+- 📉 One-Way ANOVA outputs
 
 📄 **View Complete Visualization Collection**
 
-[Audio Study Visualizations](visualizations/audio-study-visualizations.pdf)
+[Audio Study Visualizations (PDF)](./visualizations/audio-study-visualizations.pdf)
 
 ---
 
@@ -107,13 +103,11 @@ The visualization package includes:
 - Focus rating (1–5)
 - Observational notes
 
-The initial observations reflected natural listening habits. Mid-study adjustments balanced representation of silence and instrumental listening conditions to improve statistical comparisons.
-
 ---
 
 # 🧪 Statistical Methods
 
-- Data Cleaning & Transformation
+- Data Cleaning
 - Exploratory Data Analysis
 - One-Way ANOVA
 - Tukey HSD Post-Hoc Testing
@@ -123,11 +117,11 @@ The initial observations reflected natural listening habits. Mid-study adjustmen
 
 # 🎯 Key Findings
 
-- ✅ Silence and instrumental music produced the highest average focus scores.
-- ✅ Lecture audio and music with lyrics were associated with lower concentration.
-- ✅ Session duration showed little relationship with perceived focus.
-- ✅ One-Way ANOVA (**p < 0.001**) identified statistically significant differences across listening environments.
-- ✅ Tukey HSD post-hoc testing identified which audio environments differed significantly.
+- ✅ Silence produced the highest focus scores.
+- ✅ Instrumental music closely followed.
+- ✅ Lecture audio and music with lyrics reduced concentration.
+- ✅ One-Way ANOVA found statistically significant differences (**p < 0.001**).
+- ✅ Tukey HSD identified which listening environments differed significantly.
 
 ---
 
@@ -148,29 +142,28 @@ The initial observations reflected natural listening habits. Mid-study adjustmen
 - Behavioral Data Collection
 - Data Cleaning
 - Statistical Analysis
+- Hypothesis Testing
 - One-Way ANOVA
 - Tukey HSD
-- Hypothesis Testing
 - Data Visualization
-- Scientific Communication
 - Research Presentation
-- Technical Writing
+- Scientific Communication
+- Technical Documentation
 
 ---
 
 # 💡 Project Impact
 
-This project demonstrates how applied statistics can be used to answer real-world behavioral questions through structured data collection and evidence-based analysis.
+This research demonstrates how applied statistics can answer real-world behavioral questions through structured data collection and evidence-based analysis.
 
-The project showcases the complete analytics workflow:
+The project showcases an end-to-end analytics workflow:
 
 - Research design
 - Behavioral data collection
-- Data cleaning
-- Statistical analysis
+- Data preparation
+- Statistical modeling
 - Data visualization
 - Interpretation of results
-- Technical communication
 - Academic presentation
 - Scholarly publication
 
@@ -194,7 +187,7 @@ https://metroworks.metrostate.edu/student-scholarship/22/
 
 To comply with academic integrity guidelines, the complete R analysis code and raw dataset are not publicly distributed.
 
-The research poster, conference presentation, publication, statistical methodology, and visualization outputs remain publicly available for review.
+The research poster, publication, presentation materials, statistical methodology, and visualization outputs remain publicly available.
 
 ---
 
