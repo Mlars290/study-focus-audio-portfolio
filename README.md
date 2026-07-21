@@ -1,6 +1,6 @@
 # 🎧 Audio Environment Study: Focus & Productivity
 
-> **Published undergraduate research investigating how different audio environments influence study focus using statistical analysis in R.**
+> **Published undergraduate research exploring how different audio environments influence study focus using statistical analysis in R.**
 
 **Maria K. Larson**  
 *B.S. Data Science | Metropolitan State University*
@@ -12,15 +12,15 @@
 
 ---
 
-# 🏆 Project Highlights
+# 🏆 Research Highlights
 
-- 📚 Published in the **MetroWorks Student Research Collection**
-- 🎤 Presented at the **2025 Metropolitan State University Student Research Conference**
+- 📚 **Published** in the MetroWorks Student Research Collection
+- 🎤 **Presented** at the 2025 Metropolitan State University Student Research Conference
 - 📥 **68+ full-text downloads** on MetroWorks
-- 📊 Original behavioral research using R and statistical analysis
-- 📈 Applied **One-Way ANOVA**, **Tukey HSD**, and **ggplot2**
+- 📊 Faculty-recognized Data Visualization project
+- 📈 Applied **R**, **One-Way ANOVA**, **Tukey HSD**, and **ggplot2** to analyze behavioral data
 
-🔗 **Publication**
+🔗 **MetroWorks Publication**
 
 https://metroworks.metrostate.edu/student-scholarship/22/
 
@@ -46,7 +46,15 @@ Certificate awarded for presenting original undergraduate research at the **2025
 
 ---
 
-# 🖼 Research Poster
+# 📖 Project Overview
+
+This project investigated how four different audio environments influence study focus and productivity.
+
+Across **87 logged study sessions over 14 days**, behavioral data were collected, cleaned, analyzed, and visualized using **R** to determine whether different listening environments produced statistically significant differences in concentration.
+
+---
+
+# 🖼️ Research Poster
 
 <p align="center">
   <img src="poster/audio-environment-study-poster.png" width="850">
@@ -60,7 +68,13 @@ Certificate awarded for presenting original undergraduate research at the **2025
 
 # 📊 Statistical Visualizations
 
-This study generated multiple visualizations summarizing focus scores and statistical findings across different listening environments.
+The study produced multiple visualizations summarizing focus scores and statistical findings across listening environments.
+
+> **Note:** The image preview below requires `audio-study-visualizations.png` to be added to the repository.
+
+<p align="center">
+  <img src="visualizations/audio-study-visualizations.png" width="900">
+</p>
 
 The visualization package includes:
 
@@ -68,62 +82,56 @@ The visualization package includes:
 - 📦 Distribution boxplots
 - ⏱ Session duration relationships
 - 📊 Summary comparison charts
-- 📉 ANOVA visualization outputs
+- 📉 One-Way ANOVA visualization outputs
 
-📄 **View All Visualizations**
+📄 **View Complete Visualization Collection**
 
 [Audio Study Visualizations](visualizations/audio-study-visualizations.pdf)
 
 ---
 
-# 📖 Project Overview
-
-This project investigates how four different audio environments influence study focus and productivity.
-
-Across **87 logged study sessions over 14 days**, behavioral data were collected, cleaned, analyzed, and visualized using R to determine whether different listening environments produced statistically significant differences in concentration.
-
----
-
-# 🔬 Research Design
+# 🔬 Study Design
 
 ## Audio Environments
 
 - 🎧 Silence
-- 🎵 Instrumental Music
+- 🎵 Instrumental Music (Lo-fi & Ambient)
 - 🎙 Lecture Audio
 - 🎤 Music with Lyrics
 
 ## Data Collected
 
-- Session duration
+- Study session duration
 - Audio environment
 - Study activity
-- Focus score (1–5)
+- Focus rating (1–5)
 - Observational notes
+
+The initial observations reflected natural listening habits. Mid-study adjustments balanced representation of silence and instrumental listening conditions to improve statistical comparisons.
 
 ---
 
 # 🧪 Statistical Methods
 
-- Data Cleaning
-- Feature Engineering
+- Data Cleaning & Transformation
+- Exploratory Data Analysis
 - One-Way ANOVA
 - Tukey HSD Post-Hoc Testing
-- Data Visualization with ggplot2
+- Data Visualization using **ggplot2**
 
 ---
 
 # 🎯 Key Findings
 
-- Silence and instrumental music produced the highest average focus.
-- Lecture audio and music with lyrics resulted in lower concentration.
-- Session duration showed little relationship with focus.
-- One-Way ANOVA identified statistically significant differences between audio environments (**p < 0.001**).
-- Tukey HSD determined which environments differed significantly.
+- ✅ Silence and instrumental music produced the highest average focus scores.
+- ✅ Lecture audio and music with lyrics were associated with lower concentration.
+- ✅ Session duration showed little relationship with perceived focus.
+- ✅ One-Way ANOVA (**p < 0.001**) identified statistically significant differences across listening environments.
+- ✅ Tukey HSD post-hoc testing identified which audio environments differed significantly.
 
 ---
 
-# 🛠 Technologies Used
+# 🛠 Tools & Technologies
 
 - R
 - tidyverse
@@ -138,30 +146,33 @@ Across **87 logged study sessions over 14 days**, behavioral data were collected
 
 - Experimental Design
 - Behavioral Data Collection
+- Data Cleaning
 - Statistical Analysis
-- Hypothesis Testing
 - One-Way ANOVA
 - Tukey HSD
-- Data Cleaning
+- Hypothesis Testing
 - Data Visualization
-- Research Communication
+- Scientific Communication
+- Research Presentation
 - Technical Writing
 
 ---
 
-# 💡 Impact
+# 💡 Project Impact
 
-This project demonstrates how applied statistics and data visualization can be used to investigate real-world behavioral questions.
+This project demonstrates how applied statistics can be used to answer real-world behavioral questions through structured data collection and evidence-based analysis.
 
-Beyond the research findings, it showcases the complete analytics workflow:
+The project showcases the complete analytics workflow:
 
-- Designing a research study
-- Collecting structured data
-- Cleaning and preparing data
-- Performing statistical analysis
-- Visualizing results
-- Presenting findings to an academic audience
-- Publishing research in a university repository
+- Research design
+- Behavioral data collection
+- Data cleaning
+- Statistical analysis
+- Data visualization
+- Interpretation of results
+- Technical communication
+- Academic presentation
+- Scholarly publication
 
 ---
 
@@ -171,9 +182,9 @@ Larson, M. K. (2025).
 
 **The Effect of Audio Environments on Study Focus and Productivity.**
 
-Metropolitan State University Student Research Conference.
+Presented at the Metropolitan State University Student Research Conference.
 
-MetroWorks Student Research Collection.
+Published in the MetroWorks Student Research Collection.
 
 https://metroworks.metrostate.edu/student-scholarship/22/
 
@@ -183,20 +194,8 @@ https://metroworks.metrostate.edu/student-scholarship/22/
 
 To comply with academic integrity guidelines, the complete R analysis code and raw dataset are not publicly distributed.
 
-The research poster, publication, presentation materials, statistical methodology, and visualizations remain publicly available.
+The research poster, conference presentation, publication, statistical methodology, and visualization outputs remain publicly available for review.
 
 ---
 
-# 🤝 Connect
-
-**LinkedIn**
-
-https://www.linkedin.com/in/mlars29/
-
-**GitHub**
-
-https://github.com/Mlars290
-
----
-
-Thank you for taking the time to explore this research project.
+*Thank you for taking the time to explore this research project.*
