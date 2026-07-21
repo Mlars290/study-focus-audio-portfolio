@@ -74,12 +74,12 @@ Certificate awarded for presenting original undergraduate research at the **2025
 # 🖼️ Research Poster
 
 <p align="center">
-<img src="poster/audio-environment-study-poster.png" width="900">
+<img src="poster/audio-environment-study-poster.jpg" width="900">
 </p>
 
 The research poster summarizes the study's research question, methodology, statistical analysis, key findings, and conclusions presented during the conference.
 
-📄 **Full Poster (PDF)**
+📄 **Full Poster **
 
 [Audio Environment Study Poster](poster/audio-environment-study-poster.pdf)
 
