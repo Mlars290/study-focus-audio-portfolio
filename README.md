@@ -1,194 +1,200 @@
 # 🎧 Audio Environment Study: Focus & Productivity
 
-> **Published undergraduate research exploring how different audio environments influence study focus using statistical analysis in R.**
+### A 14-Day Quantitative Analysis of How Sound Influences Study Concentration
 
 **Maria K. Larson**  
-*B.S. Data Science | Metropolitan State University*
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-One--Way%20ANOVA-blue?style=for-the-badge)
-![Research](https://img.shields.io/badge/Research-Published-success?style=for-the-badge)
-![ggplot2](https://img.shields.io/badge/Data%20Visualization-ggplot2-orange?style=for-the-badge)
+*Data Science Undergraduate — Metropolitan State University*
 
 ---
 
-# 🏆 Research Highlights
+## 📊 Research Impact & Recognition
 
 - 📚 Published in the **MetroWorks Student Research Collection**
-- 🎤 Presented at the **2025 Metropolitan State University Student Research Conference**
-- 📥 **68+ full-text downloads** on MetroWorks
-- 📊 Faculty-recognized Data Visualization project
-- 📈 Applied **R**, **One-Way ANOVA**, **Tukey HSD**, and **ggplot2**
-
-🔗 **MetroWorks Publication**
-
-https://metroworks.metrostate.edu/student-scholarship/22/
+- 🔗 https://metroworks.metrostate.edu/student-scholarship/22/
+- 📈 Ranked among the **Top 10 most-downloaded papers** in the collection
+- 📥 Achieved **68+ full-text downloads** on MetroWorks
+- 🎤 Presented at the **2025 Metro State Student Scholar Research Conference**
+- 🏅 Selected by faculty as an exemplary **Data Visualization** project
 
 ---
 
-# 🎤 Research Presentation
+## 🧾 Abstract
+
+This quantitative self-tracking study investigates how four distinct audio environments influence study focus and productivity.
+
+Across **87 logged study sessions over 14 days**, behavioral data were analyzed using **R**, **tidyverse** workflows, **data visualization**, and **one-way ANOVA** with **Tukey post-hoc testing** to identify statistically significant differences in concentration across sound conditions.
+
+---
+
+## 🔍 Study Overview
+
+### Audio Environments Examined
+
+- 🎧 Silence (no background audio)
+- 🎵 Instrumental Music (lo-fi and ambient study tracks)
+- 🎙️ Lecture Audio (recorded instructional content)
+- 🎤 Music with Lyrics (primarily K-pop and pop music)
+
+### Data Collected per Session
+
+- Session timing and duration
+- Task activity
+- Audio environment
+- Observational notes
+- Focus rating (1–5 scale)
+
+Initial data reflected natural listening habits.
+
+Mid-study adjustments balanced representation of silence and instrumental conditions to support fair statistical comparison.
+
+---
+
+## 🎯 Key Findings
+
+- ✅ Silence and instrumental music produced the highest concentration levels.
+- ✅ Lecture audio and music with lyrics were associated with reduced focus.
+- ✅ Session duration showed no meaningful relationship with focus.
+- ✅ One-way ANOVA (**p < 0.001**) confirmed significant differences across environments.
+- ✅ Tukey post-hoc testing identified which environments differed statistically.
+
+---
+
+# 🏅 Research Recognition
 
 <p align="center">
-  <img src="./presentation/maria-research-presentation.jpeg" width="750">
+<img src="awards/student-research-conference-certificate.jpeg" width="650">
+</p>
+
+Certificate awarded for presenting original undergraduate research at the **2025 Metropolitan State University Student Research Conference.
+
+---
+
+## 🎤 Conference Presentation
+
+<p align="center">
+<img src="presentation/maria-research-presentation.jpeg" width="700">
 </p>
 
 Presented **The Effect of Audio Environments on Study Focus and Productivity** at the **2025 Metropolitan State University Student Research Conference**.
 
 ---
 
-# 🏅 Conference Recognition
+## 🖼️ Research Poster
 
 <p align="center">
-  <img src="./awards/student-research-conference-certificate.jpeg" width="650">
+<img src="poster/audio-environment-study-poster.png" width="850">
 </p>
 
-Certificate awarded for presenting original undergraduate research at the **2025 Metropolitan State University Student Research Conference**.
+📄 **Full Poster (PDF)**
+
+[Audio Environment Study Poster](poster/audio-environment-study-poster.pdf)
 
 ---
 
-# 📖 Project Overview
-
-This project investigated how four different audio environments influence study focus and productivity.
-
-Across **87 logged study sessions over 14 days**, behavioral data were collected, cleaned, analyzed, and visualized using **R** to determine whether different listening environments produced statistically significant differences in concentration.
-
----
-
-# 🖼️ Research Poster
+## 📊 Visualizations
 
 <p align="center">
-  <img src="./poster/audio-environment-study-poster.png" width="900">
+<img src="visualizations/audio-study-visualizations.png" width="900">
 </p>
 
-📄 **Full Resolution Poster**
+All exported figures and combined graphical outputs.
 
-[Audio Environment Study Poster (PDF)](./poster/audio-environment-study-poster.png)
+📄 **Full Visualization Package (PDF)**
 
----
+[Audio Study Visualizations](visualizations/audio-study-visualizations.pdf)
 
-# 📊 Statistical Visualizations
+Visualizations include:
 
-<p align="center">
-  <img src="./visualizations/audio-study-visualizations.png" width="900">
-</p>
-
-This visualization package includes:
-
-- 📈 Average focus ratings by audio environment
+- 📈 Focus by audio environment
 - 📦 Distribution boxplots
-- ⏱ Session duration relationships
+- ⏱️ Session duration relationships
 - 📊 Summary comparison charts
-- 📉 One-Way ANOVA outputs
-
-📄 **View Complete Visualization Collection**
-
-[Audio Study Visualizations (PDF)](./visualizations/audio-study-visualizations.png)
 
 ---
 
-# 🔬 Study Design
+## 🛠 Tools & Methods
 
-## Audio Environments
-
-- 🎧 Silence
-- 🎵 Instrumental Music (Lo-fi & Ambient)
-- 🎙 Lecture Audio
-- 🎤 Music with Lyrics
-
-## Data Collected
-
-- Study session duration
-- Audio environment
-- Study activity
-- Focus rating (1–5)
-- Observational notes
-
----
-
-# 🧪 Statistical Methods
-
-- Data Cleaning
-- Exploratory Data Analysis
-- One-Way ANOVA
-- Tukey HSD Post-Hoc Testing
-- Data Visualization using **ggplot2**
-
----
-
-# 🎯 Key Findings
-
-- ✅ Silence produced the highest focus scores.
-- ✅ Instrumental music closely followed.
-- ✅ Lecture audio and music with lyrics reduced concentration.
-- ✅ One-Way ANOVA found statistically significant differences (**p < 0.001**).
-- ✅ Tukey HSD identified which listening environments differed significantly.
-
----
-
-# 🛠 Tools & Technologies
+### Programming & Analysis
 
 - R
-- tidyverse
+- tidyverse (dplyr, readxl, etc.)
 - ggplot2
-- Excel
-- One-Way ANOVA
-- Tukey HSD
+- One-way ANOVA
+- TukeyHSD post-hoc testing
+
+### Data Collection
+
+- Excel-based structured logging
+
+### Documentation & Reproducibility
+
+- GitHub version control
+- Research poster
+- Conference presentation
 
 ---
 
-# ⭐ Skills Demonstrated
+## ⭐ Skills Demonstrated
 
-- Experimental Design
-- Behavioral Data Collection
-- Data Cleaning
-- Statistical Analysis
-- Hypothesis Testing
-- One-Way ANOVA
-- Tukey HSD
-- Data Visualization
-- Research Presentation
-- Scientific Communication
-- Technical Documentation
+- Experimental design with controlled variables
+- Behavioral data collection and structuring
+- Data cleaning and transformation in R
+- Statistical inference and hypothesis testing
+- Data visualization for scientific communication
+- Research presentation and scholarly publication
+- Technical documentation and portfolio organization
 
 ---
 
-# 💡 Project Impact
+## 🚀 Future Research Directions
 
-This research demonstrates how applied statistics can answer real-world behavioral questions through structured data collection and evidence-based analysis.
+Planned extensions of this work include:
 
-The project showcases an end-to-end analytics workflow:
+- Longer-term data collection for increased statistical power
+- Additional behavioral variables (sleep, mood, interruptions, task difficulty)
+- Mixed-effects modeling for repeated-measures analysis
+- Automated logging via Shiny app or mobile interface
+- Inclusion of effect sizes and confidence intervals
+- Measuring productivity outcomes, not only perceived focus
+- Exploring machine learning classification of study environments
 
-- Research design
-- Behavioral data collection
-- Data preparation
-- Statistical modeling
+---
+
+## 💡 Significance
+
+This study demonstrates how everyday behavioral choices, such as background audio, measurably influence concentration.
+
+More broadly, it illustrates the practical impact of combining:
+
+- Real-world behavioral data
+- Statistical analysis
 - Data visualization
-- Interpretation of results
-- Academic presentation
-- Scholarly publication
+- Evidence-based interpretation
+
+The project serves as a foundational example of applied data science in human productivity research.
 
 ---
 
-# 📚 Citation
+## 📚 Citation
 
 Larson, M. K. (2025).
 
-**The Effect of Audio Environments on Study Focus and Productivity.**
+**The Effect of Audio Environments on Study Focus.**
 
-Presented at the Metropolitan State University Student Research Conference.
+Metro State Student Scholar Research Conference.
 
-Published in the MetroWorks Student Research Collection.
+MetroWorks Student Research Collection.
 
 https://metroworks.metrostate.edu/student-scholarship/22/
 
 ---
 
-# 🔐 Code Availability
+## 🔐 Code Availability
 
-To comply with academic integrity guidelines, the complete R analysis code and raw dataset are not publicly distributed.
+To comply with academic integrity guidelines, the full R analysis code and raw dataset are not publicly distributed.
 
-The research poster, publication, presentation materials, statistical methodology, and visualization outputs remain publicly available.
+Access may be provided upon academic or professional request.
 
 ---
 
-*Thank you for taking the time to explore this research project.*
+*Thank you for viewing my research.*
