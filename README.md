@@ -62,7 +62,7 @@ Across **87 logged study sessions over 14 days**, behavioral data were collected
 
 📄 **Full Resolution Poster**
 
-[Audio Environment Study Poster (PDF)](./poster/audio-environment-study-poster.pdf)
+[Audio Environment Study Poster (PDF)](./poster/audio-environment-study-poster.png)
 
 ---
 
@@ -82,7 +82,7 @@ This visualization package includes:
 
 📄 **View Complete Visualization Collection**
 
-[Audio Study Visualizations (PDF)](./visualizations/audio-study-visualizations.pdf)
+[Audio Study Visualizations (PDF)](./visualizations/audio-study-visualizations.png)
 
 ---
 
