@@ -28,7 +28,7 @@
 # 🖼️ Research Poster
 
 <p align="center">
-<img src="poster/audio-environment-study-poster.jpg" width="900" alt="Audio Environment Study Research Poster">
+<img src="poster/audio-environment-poster.jpg" width="900" alt="Audio Environment Study Research Poster">
 </p>
 
 ---
